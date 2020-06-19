@@ -1,0 +1,17 @@
+Azimuth.class
+ChangeBackground.class
+ComputationFrame.class
+ComputationFrame$ButtonHandler.class
+ComputationFrame$ContentHandler.class
+ComputationFrame$MenuItemHandler.class
+ComputationFrame$MenuItemHandler$1.class
+ComputationFrame$SaveImageActionListener.class
+ComputeDepLat.class
+ExportToHTML.class
+HTMLFileFilter.class
+JPGFileFilter.class
+Plotter.class
+TextFileFilter.class
+TextFileReader.class
+TextFileWriter.class
+TraversePro.jar
